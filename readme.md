@@ -1,4 +1,4 @@
-# Three.js Journey
+# Testing real materials in Three.js
 
 DEMO - https://sergeyhudzenko.github.io/materials-threes/
 
